@@ -1,0 +1,5 @@
+.DS_Store
+*.mov
+cmake-build-debug/
+.idea/
+
