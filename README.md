@@ -26,7 +26,7 @@ Use `U`, `M`, `I`, `,`, `O`, and `.` to rotate the model about the three axes.
 
 Use `C` to change the color of points and the wireframe. 
 
-**Use Right Arrow key to carry out mesh subdivision. **
+**Use Right Arrow key to carry out mesh subdivision.**
 
 **Use Left Arrow key to carry out mesh simplification.**
 
